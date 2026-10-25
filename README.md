@@ -61,7 +61,7 @@ The daily withdrawal limit is denominated in wei, the smallest unit of ETH.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/walletguard.git
+git clone https://github.com/cyber-jothan/walletguard.git
 cd walletguard
 yarn install
 ```
@@ -89,7 +89,7 @@ In a separate terminal, deploy the contract using the project's Ignition module 
 WalletGuard has been deployed to the Sepolia testnet.
 
 - **Network:** Sepolia
-- **Contract address:** `YOUR_SEPOLIA_CONTRACT_ADDRESS`
+- **Contract address:** `0x8BfA6bc8D0C9d293025CB265E9D667eC2E30FbA8`
 - **Verified source code:** [View on Sepolia Etherscan](https://sepolia.etherscan.io/)
 
 Replace the placeholder with your deployed contract address and link directly to its Etherscan page.
